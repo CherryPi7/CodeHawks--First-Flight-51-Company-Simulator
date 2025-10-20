@@ -1,13 +1,7 @@
 # Company Simulator
 
-### Prize Pool TO BE FILLED OUT BY CYFRIN
-
-- Total Pool -  
-- H/M -  
-- Low -  
-
-- Starts: Oct 23rd 
-- Ends:  Oct 30th
+- Starts: Oct 23rd, 2025 Noon UTC
+- Ends:  Oct 30th, 2025 Noon UTC
 
 - nSLOC:  265
 
