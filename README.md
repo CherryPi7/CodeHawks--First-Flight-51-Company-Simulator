@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Verified_Secure-2ecc71?style=for-the-badge&logo=shield&logoColor=white" alt="Status"/>
 </p>
 
-[![CodeHawks First Flight](https://img.shields.io/badge/CodeHawks-First_Flight_51-8A2BE2?style=for-the-badge&logo=hawk&logoColor=white)](https://codehawks.cyfrin.io/)
+
 
 # 🪶 CodeHawks — Company Simulator (PoC)
 
