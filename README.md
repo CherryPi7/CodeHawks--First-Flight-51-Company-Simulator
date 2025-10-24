@@ -1,4 +1,4 @@
-<p align="center">
+
   <img src="https://img.shields.io/badge/CodeHawks-First_Flight_51-8A2BE2?style=for-the-badge&logo=hawk&logoColor=white" alt="CodeHawks Badge"/>
   <img src="https://img.shields.io/badge/Vyper-1.4.0-4B8BBE?style=for-the-badge&logo=ethereum&logoColor=white" alt="Vyper"/>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
